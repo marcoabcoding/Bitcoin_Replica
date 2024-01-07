@@ -24,10 +24,6 @@ To run this script, you need Python installed on your system along with the `Cry
 1. Clone the repository.
 2. Run the script: `python bitcoin_replica.py`.
 
-## Educational Purpose
-
-This project serves as an educational tool for those interested in understanding the basics of blockchain technology and cryptocurrencies like Bitcoin. It is not a real cryptocurrency but a demonstration of the underlying principles.
-
 ## Requirements
 
 - Python 3
