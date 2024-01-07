@@ -1,2 +1,7 @@
 # Bitcoin_Replica
-This repository contains a implementation of a cryptoblockchain using Python. It demonstrates blockchain concepts like transactions, blocks, hashing, and proof of work. (PoW).
+
+# Features
+
+- **Transactions**: Ability to create and sign transactions.
+- **Blockchain**: A simple blockchain class to store blocks.
+- **Proof of Work**: A basic proof of work algorithm to secure block creation.
